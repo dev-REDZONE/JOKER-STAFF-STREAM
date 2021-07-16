@@ -1,10 +1,10 @@
 {
-  "name": "Corona",
+  "name": "Redzone",
   "version": "2.1.0",
   "description": "PALYING ACCOUNT",
-  "main": "Yaxi.js",
+  "main": "Redzone.js",
   "scripts": {
-    "start": "node Yaxi.js"
+    "start": "node Redzone.js"
   },
   "dependencies": {
     "discord.js": "11.4.2",
