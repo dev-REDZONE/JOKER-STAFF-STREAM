@@ -1,1 +1,1 @@
-worker: node CORONA.js
+worker: node Redzone.js
